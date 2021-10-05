@@ -1,0 +1,38 @@
+[
+    {
+        "precio": 5000,
+        "id":1,
+        "titulo": "HTML",
+        "descripcion": "HTML, siglas en inglés de HyperText Markup Language, hace referencia al lenguaje de marcado para la elaboración de páginas web.",
+        "fecha": "10 de Octubre 10:00hs",
+        "image": "/img/html.png"
+
+    },
+    {
+        "precio": 8000,
+        "id":2,
+        "titulo": "CSS",
+        "descripcion": "CSS, en español «Hojas de estilo en cascada», es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado",
+        "fecha": "10 de Octubre 12:00hs",
+        "image": "/img/css.png"
+
+    },
+    {
+        "precio": 14000,
+        "id":3,
+        "titulo": "Javascript",
+        "descripcion": "JavaScript es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos, ​ basado en prototipos, imperativo, débilmente tipado y dinámico.",
+        "fecha": "10 de Octubre 14:00hs",
+        "image": "/img/js.png"
+
+    },
+    {        
+        "precio": 14000,
+        "id":4,
+        "titulo": "React",
+        "descripcion": "React es una biblioteca Javascript de código abierto diseñada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página. Es mantenido por Facebook y la comunidad de software libre. En el proyecto hay más de mil desarrolladores libres",
+        "fecha": "10 de Octubre 16:00hs",
+        "image": "/img/react.png"
+
+    }
+]

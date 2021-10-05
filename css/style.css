@@ -1,0 +1,43 @@
+body {
+  background-image: url(../img/agenda.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  color: aliceblue;
+  font-size: 50px;
+  margin-top: 50px;
+}
+
+h4 {
+  color: aliceblue;
+}
+
+th {
+  color: aliceblue;
+  font-size: 20px;
+}
+
+.fondo-carrito {
+  background-color: rgba(0, 0, 0, 0.301);
+  border-radius: 10px;
+  padding: 10px;
+}
+tr td {
+  color: aliceblue;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.card-text {
+  font-weight: 800;
+  font-size: 20px;
+}
+.card {
+  margin-bottom: 30px;
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.2);
+}
